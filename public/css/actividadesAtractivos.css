@@ -1,0 +1,26 @@
+.modalVideo{
+    margin-top: 20px;
+
+}
+
+.modalMapa{
+    margin-top: 20px;
+
+}
+
+.select-atractivos{
+    width: 50%;
+    display: flex;
+    margin: auto;
+}
+
+.img-atractivo{
+    display: block;
+    max-width: 400px;
+    max-height: 400px;
+}
+
+.contenedor-atractivos{
+    display: grid;
+    grid-column-gap: 10px;
+}
